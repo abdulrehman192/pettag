@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PetTag</string>
+    <string name="facebook_app_id">589620711748653</string>
+    <string name="facebook_client_token">a4c3b6252eafa2081b0c4bf581131e37</string>
+
+</resources>

@@ -1,0 +1,137 @@
+name: pettag
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 22.0.2+29
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  share_plus: ^9.0.0
+  cupertino_icons: ^1.0.0
+  fsearch: ^2.0.00
+  font_awesome_flutter:
+  carousel_slider: ^4.0.0
+#  flutter_snackbar: ^0.0.3
+  top_snackbar_flutter: ^3.1.0
+  shared_preferences: ^2.0.8
+  firebase_core: ^2.1.1
+  firebase_auth: ^4.1.0
+  provider: ^6.0.1
+  flutter_facebook_auth: ^6.0.4
+  cloud_firestore: ^4.0.3
+  fluttertoast: any
+  image_picker: ^1.1.1
+  firebase_storage: ^11.0.3
+  cached_network_image: any
+  mvc_pattern: ^8.10.1+01
+  video_thumbnail: any
+  photo_view: ^0.15.0
+  google_maps_flutter: ^2.1.4
+  #geocoder: ^0.2.1
+  geocoding: ^3.0.0
+  location: ^6.0.2
+  numberpicker: ^2.1.1
+  intl: ^0.18.1
+  video_player: any
+  flutter_local_notifications: ^17.1.2
+  firebase_messaging: ^14.0.3
+  #firebase_admob: any
+  flutter_countdown_timer: ^4.1.0
+  google_sign_in: any
+  video_trimmer: any
+  path_provider: ^2.0.5
+#  purchases_flutter: ^3.10.0
+  maps_toolkit: ^3.0.0
+  url_launcher:
+  flutter_slidable: ^0.6.0
+  flutter_multi_select_items: ^0.4.2
+#  multi_select_item: ^1.0.3
+#  flutter_swiper: ^1.1.6
+  smooth_page_indicator: ^1.0.0+2
+  firebase_dynamic_links: any
+  flutter_share: ^2.0.0
+  http: any
+  flutter_inapp_purchase: ^5.3.1
+  comment_box: ^0.0.16
+  inview_notifier_list: ^3.0.0
+  app_tracking_transparency: ^2.0.2+1
+  flutter_locales: ^3.0.1
+  google_fonts: ^4.0.4
+  google_mobile_ads: ^5.1.0
+  sign_in_with_apple: ^6.1.0
+  crypto: ^3.0.1
+  ffmpeg_kit_flutter: ^6.0.3
+  flutter_google_places: ^0.3.0
+  rxdart: ^0.26.0
+  pinch_zoom_release_unzoom: ^1.0.3
+  toggle_switch:
+  permission_handler:
+  fl_chart: ^0.68.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/anim/tower1.json
+    - assets/dogsAndCats/
+    - assets/2x/
+    - assets/icon/
+    - assets/3x/
+    - assets/newimg.png
+    - assets/locales/en.json
+    - assets/locales/es.json
+    - assets/locales/hi.json
+    - assets/locales/pt.json
+    - assets/locales/zh.json
+
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico/Pacifico-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

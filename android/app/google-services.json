@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "335385716232",
+    "project_id": "pettag-d02f6",
+    "storage_bucket": "pettag-d02f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335385716232:android:faa8ce08dd7c3d85d3d3bd",
+        "android_client_info": {
+          "package_name": "com.utechware.socialapppettag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335385716232-2npv47tk1s2ebe3498fd83oc3qfn5r2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "6993592e81573bddbd513a7db231f65e0795395b"
+          }
+        },
+        {
+          "client_id": "335385716232-5ph68cuf8o3mk0h1gnh32rm8ibnn04n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "a231c0d28acb048470de74a6c9d14a67115acdb8"
+          }
+        },
+        {
+          "client_id": "335385716232-7muvl2cc1in48imb2plcok6qh7foneif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "335385716232-ofp0r8lo8pv231b1g50tn17u7po76i5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "335385716232-oqrd8754p20n4k034i8rfgs78vlok23b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "1da536be1ab27977c8487caa7078463b39758dd6"
+          }
+        },
+        {
+          "client_id": "335385716232-s4jgdfk7mkvmutm5jq58bmf6r331i8hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.socialapppettag",
+            "certificate_hash": "71420c93e3acc711f21ab4389a849bf88ab36edc"
+          }
+        },
+        {
+          "client_id": "335385716232-mvnc7kev7s4mhjhp60mtr6r8v6a955dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9cEK52BndulA1jGMwcj1ehTgLmNKwsLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335385716232-mvnc7kev7s4mhjhp60mtr6r8v6a955dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335385716232-77itsrpm9b6m8rvedg8hfhrchqj1jm2t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utechware.socialapppettag",
+                "app_store_id": "1589743000"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
